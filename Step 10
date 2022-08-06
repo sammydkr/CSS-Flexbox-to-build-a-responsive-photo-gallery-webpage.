@@ -1,0 +1,5 @@
+.header {
+  text-align:center;
+  padding:32px;
+  background-color:#E0DDDD;
+}
